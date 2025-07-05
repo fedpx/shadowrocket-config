@@ -1,1 +1,1 @@
-# shadowrocker-config
+# shadowrocket-config
