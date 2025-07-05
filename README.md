@@ -1,0 +1,1 @@
+# shadowrocker-config
